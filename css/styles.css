@@ -66,6 +66,18 @@ body{
   text-align: center;
   padding: 10px;
 }
+
+.button{
+    text-decoration: none;
+    padding: 2px;
+    font-weight: 800px;
+    font-size: 10px;
+    color: #DE087F;
+    background-color: #F7DEF6;;
+    transform: scale(1.2);
+   
+    
+}
 .charecter img{
     width: 80%;
     height: 50%;
